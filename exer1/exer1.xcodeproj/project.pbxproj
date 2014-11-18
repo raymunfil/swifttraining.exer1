@@ -13,6 +13,8 @@
 		99EE7C011A1B22A00084AAEA /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 99EE7C001A1B22A00084AAEA /* Images.xcassets */; };
 		99EE7C041A1B22A00084AAEA /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 99EE7C021A1B22A00084AAEA /* LaunchScreen.xib */; };
 		99EE7C101A1B22A10084AAEA /* exer1Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 99EE7C0F1A1B22A10084AAEA /* exer1Tests.swift */; };
+		99EE7C1A1A1B24F50084AAEA /* sagradafamilia.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 99EE7C191A1B24F50084AAEA /* sagradafamilia.jpeg */; };
+		99EE7C1C1A1B27D90084AAEA /* alberteinstein.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 99EE7C1B1A1B27D90084AAEA /* alberteinstein.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +38,8 @@
 		99EE7C091A1B22A10084AAEA /* exer1Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = exer1Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		99EE7C0E1A1B22A10084AAEA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		99EE7C0F1A1B22A10084AAEA /* exer1Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = exer1Tests.swift; sourceTree = "<group>"; };
+		99EE7C191A1B24F50084AAEA /* sagradafamilia.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = sagradafamilia.jpeg; sourceTree = "<group>"; };
+		99EE7C1B1A1B27D90084AAEA /* alberteinstein.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = alberteinstein.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +94,8 @@
 		99EE7BF71A1B22A00084AAEA /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				99EE7C1B1A1B27D90084AAEA /* alberteinstein.jpg */,
+				99EE7C191A1B24F50084AAEA /* sagradafamilia.jpeg */,
 				99EE7BF81A1B22A00084AAEA /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -193,6 +199,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				99EE7BFF1A1B22A00084AAEA /* Main.storyboard in Resources */,
+				99EE7C1C1A1B27D90084AAEA /* alberteinstein.jpg in Resources */,
+				99EE7C1A1A1B24F50084AAEA /* sagradafamilia.jpeg in Resources */,
 				99EE7C041A1B22A00084AAEA /* LaunchScreen.xib in Resources */,
 				99EE7C011A1B22A00084AAEA /* Images.xcassets in Resources */,
 			);
